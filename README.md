@@ -1,4 +1,5 @@
 # Crop Prediction
-The model recommends a crop that is best suitable at a particular month based on few environmental conditions. We have used linear regression to do so. 
 
-
+A machine learning model implemented in developing a crop production recommendation
+system. With this, farmers will be able to predict which crop to grow with respect to the fertility
+of the soil and based on few environmental conditions using linear regression algorithm.
